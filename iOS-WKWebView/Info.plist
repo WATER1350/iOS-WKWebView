@@ -46,6 +46,6 @@
 	<key>url</key>
 	<string>https://www.hackingwithswift.com</string>
 	<key>use_wk</key>
-	<true/>
+	<false/>
 </dict>
 </plist>
